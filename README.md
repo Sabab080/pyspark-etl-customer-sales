@@ -16,6 +16,9 @@ Workflow
 Features
 
 ✅ Optimized Data Extraction → Uses partitioning to handle large datasets efficiently.
+
 ✅ Modular & Scalable Design → Follows Single Responsibility Principle (SRP) for maintainability.
+
 ✅ Error Handling & Logging → Ensures smooth execution with detailed logging.
+
 ✅ Parallel Processing → Utilizes Spark's distributed computing for high performance.
