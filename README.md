@@ -3,7 +3,7 @@
 
 Overview
 
-PySpark-based ETL pipeline extracts transaction data from a MySQL database, cleans and transforms it, aggregates monthly sales per customer, and writes the processed data to an S3 bucket in Parquet format.
+PySpark-based ETL pipeline that extracts transaction data from a MySQL database, cleans and transforms it, aggregates monthly sales per customer, and writes the processed data to an S3 bucket in Parquet format.
 
 
 Workflow
